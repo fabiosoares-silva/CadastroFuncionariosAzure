@@ -1,0 +1,6 @@
+@CadastroFuncionariosAzure_HostAddress = http://localhost:5089
+
+GET {{CadastroFuncionariosAzure_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
